@@ -1,0 +1,17 @@
+{
+  "name": "Chubba Time",
+  "icons": [
+    {
+      "src": "/images/chubba-time.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/chubba-time.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "fullscreen"
+}
